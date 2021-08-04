@@ -1,38 +1,169 @@
-.App {
-  text-align: center;
+@media (max-width: 767px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* medium and up screens */
+@media (min-width: 767px) {
+    
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(50%);
+    }
+    
+    .carousel-inner .carousel-item-start.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-50%);
+    }
+
+    
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+  transform: translateX(0);
+}
+
+.gallery-title {
+    width: 70%;
+    max-width: 18rem;
+    position: absolute;
+    top: 2rem;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    background-color: white;
+    font-family: freight-big-pro;
+}
+
+.card-text {
+    background-color: #f9f4f1;
+}
+
+.card {
+    background-color: #f9f4f1;
+    border: transparent;
+    padding: 1rem 1rem;
+    margin: auto 0.5rem;
+}
+
+.carousel {
+    position: relative;
+}
+
+.carousel-shop {
+    position: relative;
+    max-width: 10rem;   
+    bottom: -4.5rem;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+
+
+/* .hover-image, .c2:hover .normal-image {
+    display: none;
+    transition: all .2s ease-in-out;
   }
-}
+  
+.c2:hover .hover-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: scale(auto);
+} */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.hover-image, .c2:hover .normal-image {
+    opacity: 0;
+    transition: all .2s ease-in-out;
   }
-  to {
-    transform: rotate(360deg);
-  }
+  
+.c2:hover .hover-image {
+    opacity: 1;
+    transform: scale(auto);
+}
+/* 
+.center {
+    position: relative;
+    overflow: visible;
+    display: block;
+}
+
+.hover-image {
+    position: absolute;  
+    top: 0;
+}
+
+.normal-image {
+    position: absolute;
+    top: 0;
+} */
+
+@keyframes fadein {
+    from {
+        opacity: 0.6;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+.center p {
+    position: relative;
+    bottom: 0;
+}
+
+
+.center {
+    position: relative;
+    overflow: visible;
+}
+
+.card {
+    position: relative;
+    overflow: visible;
+}
+
+.normal-image {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width:100%;
+    overflow: visible;
+    margin: 0 auto;
+}
+
+
+.normal-image img {
+    width:85%;
+
+}
+
+
+.hover-image {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    overflow: visible;
+    margin: 0 auto;
+}
+
+
+.hover-image img {
+    overflow: visible;
+    width:100%;
 }
