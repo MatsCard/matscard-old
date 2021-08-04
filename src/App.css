@@ -140,7 +140,6 @@
 .normal-image {
     position: relative;
     top: 0px;
-    left: 0px;
     width:100%;
     overflow: visible;
     margin: 0 auto;
@@ -148,7 +147,7 @@
 
 
 .normal-image img {
-    width:85%;
+    width:65%;
 
 }
 
@@ -156,7 +155,6 @@
 .hover-image {
     position: absolute;
     top: 0px;
-    left: 0px;
     width: 100%;
     overflow: visible;
     margin: 0 auto;
@@ -164,6 +162,6 @@
 
 
 .hover-image img {
+    width: 78%;
     overflow: visible;
-    width:100%;
 }
