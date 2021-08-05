@@ -6,8 +6,6 @@ import eventSmall from '../assets/images/react-bootstrap-event-small.png'
 import eventBig from '../assets/images/react-bootstrap-event-big.png'
 import foundationSmall from '../assets/images/platzi-foundation-small.png'
 import foundationBig from '../assets/images/platzi-foundation-big.png'
-import videoSmall from '../assets/images/platzi-video-small.png'
-import videoBig from '../assets/images/platzi-video-big.png'
 import blogSmall from '../assets/images/platzi-blog-small.png'
 import blogBig from '../assets/images/platzi-blog-big.png'
 import reactVideoSmall from '../assets/images/react-video-small.png'
@@ -60,7 +58,6 @@ function Home() {
                 <CarouselItem small={exchangeSmall} big={exchangeBig} description="Bitcoin value exchange" link="https://matscard-exchange.netlify.app/"></CarouselItem>
                 <CarouselItem small={eventSmall} big={eventBig} description="Platzi conference" link="ttps://matscard.github.io/react-bootstrap-event"></CarouselItem>
                 <CarouselItem small={foundationSmall} big={foundationBig} description="Tattoo store" link="https://matscard.github.io/platzi-foundation/"></CarouselItem>
-                <CarouselItem small={videoSmall} big={videoBig} description="Popular movies" link="https://matscard.github.io/platzi-video/"></CarouselItem>
                 <CarouselItem small={blogSmall} big={blogBig} description="Blog" link="https://matscard.github.io/platzi-blog/"></CarouselItem>
                 <CarouselItem small={reactVideoSmall} big={reactVideoBig} description="Favorite videos" link="https://matscard.github.io/react-video/"></CarouselItem>
                 <CarouselItem small={swagSmall} big={swagBig} description="Gatsby store" link="https://ps-matscard.netlify.app/"></CarouselItem>
