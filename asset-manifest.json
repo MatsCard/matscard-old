@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/matscard/static/css/main.8eee5754.chunk.css",
-    "main.js": "/matscard/static/js/main.d4c23975.chunk.js",
-    "main.js.map": "/matscard/static/js/main.d4c23975.chunk.js.map",
+    "main.css": "/matscard/static/css/main.0362f067.chunk.css",
+    "main.js": "/matscard/static/js/main.c0f0fd41.chunk.js",
+    "main.js.map": "/matscard/static/js/main.c0f0fd41.chunk.js.map",
     "runtime-main.js": "/matscard/static/js/runtime-main.d8a64954.js",
     "runtime-main.js.map": "/matscard/static/js/runtime-main.d8a64954.js.map",
     "static/css/2.f022d7f2.chunk.css": "/matscard/static/css/2.f022d7f2.chunk.css",
@@ -12,8 +12,9 @@
     "static/js/3.871729f5.chunk.js.map": "/matscard/static/js/3.871729f5.chunk.js.map",
     "index.html": "/matscard/index.html",
     "static/css/2.f022d7f2.chunk.css.map": "/matscard/static/css/2.f022d7f2.chunk.css.map",
-    "static/css/main.8eee5754.chunk.css.map": "/matscard/static/css/main.8eee5754.chunk.css.map",
+    "static/css/main.0362f067.chunk.css.map": "/matscard/static/css/main.0362f067.chunk.css.map",
     "static/js/2.7895132a.chunk.js.LICENSE.txt": "/matscard/static/js/2.7895132a.chunk.js.LICENSE.txt",
+    "static/media/Freight Big Light.0363e1ab.otf": "/matscard/static/media/Freight Big Light.0363e1ab.otf",
     "static/media/angular-firebase-store-big.4a224ffb.png": "/matscard/static/media/angular-firebase-store-big.4a224ffb.png",
     "static/media/angular-firebase-store-small.a0d9996e.png": "/matscard/static/media/angular-firebase-store-small.a0d9996e.png",
     "static/media/gatsby-swag-big.61d0911d.png": "/matscard/static/media/gatsby-swag-big.61d0911d.png",
@@ -41,7 +42,7 @@
     "static/js/runtime-main.d8a64954.js",
     "static/css/2.f022d7f2.chunk.css",
     "static/js/2.7895132a.chunk.js",
-    "static/css/main.8eee5754.chunk.css",
-    "static/js/main.d4c23975.chunk.js"
+    "static/css/main.0362f067.chunk.css",
+    "static/js/main.c0f0fd41.chunk.js"
   ]
 }
