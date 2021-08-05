@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/matscard/static/css/main.4e635007.chunk.css",
-    "main.js": "/matscard/static/js/main.3fc555d6.chunk.js",
-    "main.js.map": "/matscard/static/js/main.3fc555d6.chunk.js.map",
+    "main.css": "/matscard/static/css/main.32158fd4.chunk.css",
+    "main.js": "/matscard/static/js/main.9165dc21.chunk.js",
+    "main.js.map": "/matscard/static/js/main.9165dc21.chunk.js.map",
     "runtime-main.js": "/matscard/static/js/runtime-main.d8a64954.js",
     "runtime-main.js.map": "/matscard/static/js/runtime-main.d8a64954.js.map",
     "static/css/2.f022d7f2.chunk.css": "/matscard/static/css/2.f022d7f2.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.871729f5.chunk.js.map": "/matscard/static/js/3.871729f5.chunk.js.map",
     "index.html": "/matscard/index.html",
     "static/css/2.f022d7f2.chunk.css.map": "/matscard/static/css/2.f022d7f2.chunk.css.map",
-    "static/css/main.4e635007.chunk.css.map": "/matscard/static/css/main.4e635007.chunk.css.map",
+    "static/css/main.32158fd4.chunk.css.map": "/matscard/static/css/main.32158fd4.chunk.css.map",
     "static/js/2.7895132a.chunk.js.LICENSE.txt": "/matscard/static/js/2.7895132a.chunk.js.LICENSE.txt",
     "static/media/angular-firebase-store-big.f8c4e9df.png": "/matscard/static/media/angular-firebase-store-big.f8c4e9df.png",
     "static/media/angular-firebase-store-small.4687e1c5.png": "/matscard/static/media/angular-firebase-store-small.4687e1c5.png",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.d8a64954.js",
     "static/css/2.f022d7f2.chunk.css",
     "static/js/2.7895132a.chunk.js",
-    "static/css/main.4e635007.chunk.css",
-    "static/js/main.3fc555d6.chunk.js"
+    "static/css/main.32158fd4.chunk.css",
+    "static/js/main.9165dc21.chunk.js"
   ]
 }
