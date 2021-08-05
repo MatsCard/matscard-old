@@ -16,7 +16,7 @@ function CarouselItem ({small, big, description, active, link}) {
                         </div>
                         </div>
                     </a>
-                    <h6 className="card-text pt-1 mt-1">{description}</h6>
+                    <h4 className="card-text pt-1 mt-1">{description}</h4>
                 </div>
             </div>
         </div>
