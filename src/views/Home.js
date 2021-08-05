@@ -54,7 +54,7 @@ function Home() {
       <div className="row mx-auto mx-1 mt-5 justify-content-center border border-dark pb-1 pt-5">
           <div id="recipeCarousel" className="carousel slide" data-bs-ride="carousel">
               <div className="carousel-inner" role="listbox">
-                <CarouselItem small={angularSmall} big={angularBig} description="Small Store made in Angular" active="active" link="https://platzi-store-232c3.web.app/products"></CarouselItem>
+                <CarouselItem small={angularSmall} big={angularBig} description="Store made in Angular" active="active" link="https://platzi-store-232c3.web.app/products"></CarouselItem>
                 <CarouselItem small={exchangeSmall} big={exchangeBig} description="Bitcoin value exchange" link="https://matscard-exchange.netlify.app/"></CarouselItem>
                 <CarouselItem small={eventSmall} big={eventBig} description="Platzi conference" link="ttps://matscard.github.io/react-bootstrap-event"></CarouselItem>
                 <CarouselItem small={foundationSmall} big={foundationBig} description="Tattoo store" link="https://matscard.github.io/platzi-foundation/"></CarouselItem>
