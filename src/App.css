@@ -38,7 +38,7 @@
     width: 70%;
     max-width: 18rem;
     position: absolute;
-    top: 2rem;
+    top: 1.5rem;
     margin: 0 auto;
     left: 0;
     right: 0;
@@ -64,7 +64,7 @@
 .carousel-shop {
     position: relative;
     max-width: 10rem;   
-    bottom: -4.5rem;
+    bottom: -1.5rem;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -124,6 +124,7 @@
 .center p {
     position: relative;
     bottom: 0;
+    margin-bottom: 0;
 }
 
 
@@ -147,7 +148,7 @@
 
 
 .normal-image img {
-    width:65%;
+    width:70%;
 
 }
 
@@ -162,6 +163,15 @@
 
 
 .hover-image img {
-    width: 78%;
+    width: 85%;
     overflow: visible;
+}
+
+
+@media screen and (min-width: 767px) {
+    
+.gallery-title {
+    top: 2rem;
+}
+
 }
