@@ -56,18 +56,18 @@ function Home() {
       <div className="row mx-auto mx-1 mt-5 justify-content-center border border-dark pb-1 pt-5">
           <div id="recipeCarousel" className="carousel slide my-5" data-bs-ride="carousel">
               <div className="carousel-inner" role="listbox">
-                <CarouselItem small={angularSmall} big={angularBig} description="Small Store made in Angular" active="active"></CarouselItem>
-                <CarouselItem small={exchangeSmall} big={exchangeBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={eventSmall} big={eventBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={foundationSmall} big={foundationBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={videoSmall} big={videoBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={blogSmall} big={blogBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={reactVideoSmall} big={reactVideoBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={swagSmall} big={swagBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={gamesSmall} big={gamesBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={foodSmall} big={foodBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={confSmall} big={confBig} description="Small Store made in Angular"></CarouselItem>
-                <CarouselItem small={diarySmall} big={diaryBig} description="Small Store made in Angular"></CarouselItem>
+                <CarouselItem small={angularSmall} big={angularBig} description="Small Store made in Angular" active="active" link="https://platzi-store-232c3.web.app/products"></CarouselItem>
+                <CarouselItem small={exchangeSmall} big={exchangeBig} description="Bitcoin value exchange" link="https://matscard-exchange.netlify.app/"></CarouselItem>
+                <CarouselItem small={eventSmall} big={eventBig} description="Platzi conference" link="ttps://matscard.github.io/react-bootstrap-event"></CarouselItem>
+                <CarouselItem small={foundationSmall} big={foundationBig} description="Tattoo store" link="https://matscard.github.io/platzi-foundation/"></CarouselItem>
+                <CarouselItem small={videoSmall} big={videoBig} description="Popular movies" link="https://matscard.github.io/platzi-video/"></CarouselItem>
+                <CarouselItem small={blogSmall} big={blogBig} description="Blog" link="https://matscard.github.io/platzi-blog/"></CarouselItem>
+                <CarouselItem small={reactVideoSmall} big={reactVideoBig} description="Favorite videos" link="https://matscard.github.io/react-video/"></CarouselItem>
+                <CarouselItem small={swagSmall} big={swagBig} description="Gatsby store" link="https://ps-matscard.netlify.app/"></CarouselItem>
+                <CarouselItem small={gamesSmall} big={gamesBig} description="Videogames news" link="https://matscard.github.io/platzi-games/"></CarouselItem>
+                <CarouselItem small={foodSmall} big={foodBig} description="Food store" link="https://matscard.github.io/platzi-food/"></CarouselItem>
+                <CarouselItem small={confSmall} big={confBig} description="Badges database" link="https://matscard.github.io/react-badges/"></CarouselItem>
+                <CarouselItem small={diarySmall} big={diaryBig} description="Notepad store" link="https://matscard.github.io/react-diary/"></CarouselItem>
               </div>
               <a className="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="prev">
                   <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -76,7 +76,12 @@ function Home() {
                   <span className="carousel-control-next-icon" aria-hidden="true"></span>
               </a>
           </div>
-        <h5 className="mt-2 fw-light btn btn-dark carousel-shop">CONTACT ME</h5>
+          <a href="mailto: mats.card.one@gmail.com">
+        <h5 className="mt-2 fw-light btn btn-dark carousel-shop">
+            CONTACT ME
+            </h5>
+
+          </a>
       </div>
     </div>
   );

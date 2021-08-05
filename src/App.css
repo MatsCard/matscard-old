@@ -175,3 +175,8 @@
 }
 
 }
+
+a .card p {
+    text-decoration: none;
+    color: black;
+}
