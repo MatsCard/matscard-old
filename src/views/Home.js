@@ -47,12 +47,12 @@ function Home() {
   return (
     <div className="container carousel-container text-center my-3">
       <div className="gallery-title row ">
-        <h2 className="font-weight-light col-12 col-md-6 text-center text-md-end">Latest</h2>
-        <h2 className="font-weight-light col-12 col-md-6 text-center text-md-start ps-md-0">Projects</h2>
+        <h3 className="font-weight-light col-12 col-md-6 text-center text-md-end">Latest</h3>
+        <h3 className="font-weight-light col-12 col-md-6 text-center text-md-start ps-md-0">Projects</h3>
 
       </div>
       <div className="row mx-auto mx-1 mt-5 justify-content-center border border-dark pb-1 pt-5">
-          <div id="recipeCarousel" className="carousel slide my-5" data-bs-ride="carousel">
+          <div id="recipeCarousel" className="carousel slide" data-bs-ride="carousel">
               <div className="carousel-inner" role="listbox">
                 <CarouselItem small={angularSmall} big={angularBig} description="Small Store made in Angular" active="active" link="https://platzi-store-232c3.web.app/products"></CarouselItem>
                 <CarouselItem small={exchangeSmall} big={exchangeBig} description="Bitcoin value exchange" link="https://matscard-exchange.netlify.app/"></CarouselItem>

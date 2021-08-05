@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter, Route, Switch  } from 'react-router-dom';
 import Home from './views/Home'
-
+import './utils/Freight Big Light.otf'
 function App() {
 
 

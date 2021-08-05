@@ -43,7 +43,7 @@
     left: 0;
     right: 0;
     background-color: white;
-    font-family: freight-big-pro;
+    font-family: Freight;
 }
 
 .card-text {
@@ -148,7 +148,7 @@
 
 
 .normal-image img {
-    width:70%;
+    width:100%;
 
 }
 
@@ -156,9 +156,12 @@
 .hover-image {
     position: absolute;
     top: 0px;
-    width: 100%;
+    width: 80%;
     overflow: visible;
     margin: 0 auto;
+    text-align: center;
+    left: 0;
+    right: 0;
 }
 
 
@@ -167,9 +170,17 @@
     overflow: visible;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
 
 @media screen and (min-width: 767px) {
     
+.normal-image img {
+    width: 55%;
+
+}
+
 .gallery-title {
     top: 2rem;
 }
