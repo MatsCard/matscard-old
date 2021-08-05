@@ -156,7 +156,7 @@
 .hover-image {
     position: absolute;
     top: 0px;
-    width: 80%;
+    width: 100%;
     overflow: visible;
     margin: 0 auto;
     text-align: center;
@@ -166,7 +166,7 @@
 
 
 .hover-image img {
-    width: 85%;
+    width: 91%;
     overflow: visible;
 }
 
@@ -177,7 +177,7 @@
 @media screen and (min-width: 767px) {
     
 .normal-image img {
-    width: 55%;
+    width: 75%;
 
 }
 
