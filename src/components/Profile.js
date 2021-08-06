@@ -4,9 +4,9 @@ import creator from '../assets/images/creator.jpg'
 
 function Profile () {    
     return (
-        <div className="profile">
-            <div className="card">
-                <div className="row g-0">
+        <div className="profile mx-1">
+            <div className="card m-0">
+                <div className="row">
                     <div className="profile-img col-12 col-lg-3">
                         <img src={creator} className="img-fluid" alt="Website Creator" />
                     </div>

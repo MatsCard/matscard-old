@@ -12,6 +12,7 @@
     width: 80%;
     margin: 0 auto;
     top: -5rem;
+    border-radius: 10px;
 }
 
 .empty .empty-col {

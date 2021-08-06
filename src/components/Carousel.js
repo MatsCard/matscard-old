@@ -45,7 +45,7 @@ function Carousel() {
 
 
   return (
-    <div className="container carousel-container text-center my-3 pb-5">
+    <div className="container carousel-container text-center mb-5">
       <div className="gallery-title row ">
         <h3 className="font-weight-light col-12 col-md-6 text-center text-md-end">Latest</h3>
         <h3 className="font-weight-light col-12 col-md-6 text-center text-md-start ps-md-0">Projects</h3>

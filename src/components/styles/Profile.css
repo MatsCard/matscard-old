@@ -1,4 +1,4 @@
-.card {
+.profile .card {
     padding-bottom: 10rem;
     display: grid;
     background-color: var(--primary-color);
@@ -20,6 +20,11 @@
 .profile-img {
     max-width: 80%;
     overflow: auto;
+}
+
+.profile {/* 
+    padding: 15px 15px;
+    border: 1px solid black; */
 }
 
 

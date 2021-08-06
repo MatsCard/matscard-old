@@ -1,5 +1,6 @@
 :root {
-    --primary-color: #dadada;
+    --primary-color: #d1dcdd;
+    --secondary-color: #d1dcdd;
 }
 
 body {
@@ -56,11 +57,11 @@ body {
 
 .card-text {
 
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 .card {
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
     border: transparent;
     padding: 1rem 1rem;
     margin: auto 0.5rem;

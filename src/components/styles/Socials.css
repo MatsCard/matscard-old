@@ -1,0 +1,10 @@
+.socials {
+    position: sticky;
+    top: 50%;
+    background-color: white;
+    color: black;
+
+    z-index: 1000;
+    width: 40px;
+    
+}
