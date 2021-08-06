@@ -1,0 +1,20 @@
+.empty {
+    position: relative;
+    margin: 0 auto;
+    height: 400px;
+    
+}
+
+.empty-container {
+    position: relative;
+    background-color: black;
+    height: 500px;
+    width: 80%;
+    margin: 0 auto;
+    top: -5rem;
+}
+
+.empty .empty-col {
+    
+    border-right: 2px solid white;
+}

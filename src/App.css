@@ -1,3 +1,11 @@
+:root {
+    --primary-color: #dadada;
+}
+
+body {
+    font-family: Freight;
+}
+
 @media (max-width: 767px) {
     .carousel-inner .carousel-item > div {
         display: none;
@@ -38,7 +46,7 @@
     width: 70%;
     max-width: 18rem;
     position: absolute;
-    top: 1.5rem;
+    top: -1.5rem;
     margin: 0 auto;
     left: 0;
     right: 0;
@@ -47,11 +55,12 @@
 }
 
 .card-text {
-    background-color: #f9f4f1;
+
+    background-color: var(--primary-color);
 }
 
 .card {
-    background-color: #f9f4f1;
+    background-color: var(--primary-color);
     border: transparent;
     padding: 1rem 1rem;
     margin: auto 0.5rem;
@@ -182,7 +191,7 @@
 }
 
 .gallery-title {
-    top: 2rem;
+    top: -1rem;
 }
 
 }
@@ -190,4 +199,8 @@
 a .card p {
     text-decoration: none;
     color: black;
+}
+
+.carousel-container {
+    position: relative;
 }

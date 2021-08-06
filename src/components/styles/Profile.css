@@ -1,0 +1,25 @@
+.card {
+    padding-bottom: 10rem;
+    display: grid;
+    background-color: var(--primary-color);
+}
+.card p {
+    background-color: var(--primary-color);
+}
+.card ul li{
+    background-color: var(--primary-color);
+}
+
+.card h4{
+    background-color: var(--primary-color);
+}
+
+.card h5{
+    background-color: var(--primary-color);
+}
+.profile-img {
+    max-width: 80%;
+    overflow: auto;
+}
+
+
