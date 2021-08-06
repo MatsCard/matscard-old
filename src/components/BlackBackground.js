@@ -3,7 +3,7 @@ import './styles/BlackBackground.css'
 
 function BlackBackground () {    
     return (
-        <div className="container pb-5 mb-5">
+        <div className="container pb-5 mb-0">
             <div className="empty-container text-center pt-3 px-1">
                     <h1 className="text-white">
                     Best Decision of your life

@@ -1,14 +1,14 @@
 .empty {
     position: relative;
     margin: 0 auto;
-    height: 400px;
+    height: 200px;
     
 }
 
 .empty-container {
     position: relative;
     background-color: black;
-    height: 500px;
+    height: 300px;
     width: 80%;
     margin: 0 auto;
     top: -5rem;
