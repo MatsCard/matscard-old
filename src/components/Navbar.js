@@ -14,13 +14,16 @@ function Navbar () {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                        <a className="nav-link active" href="#profile">About Me</a>
+                        <Link className="nav-link active" aria-current="page"  to="/">Home</Link>
+                        </li>
+                        <li className="nav-item">
+                        <a className="nav-link" href="#profile">About Me</a>
                         </li>
                         <li className="nav-item">
                         <a className="nav-link" href="#projects">Projects</a>
                         </li>
                         <li className="nav-item">
-                        <a className="nav-link" href="#contact-me">Contact</a>
+                        <a className="nav-link" href="#contact-me">Contact Me</a>
                         </li>
                     </ul>
                     </div>
