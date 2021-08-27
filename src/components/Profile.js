@@ -24,7 +24,8 @@ function Profile () {
                                 <li className="list-group-item">CSS3/Bootstrap/Tailwind</li>
                                 <li className="list-group-item">Javascript/Typescript</li>
                                 <li className="list-group-item">React/Gatsby/Angular/Vue</li>
-                                <li className="list-group-item">Node/Express</li>
+                                <li className="list-group-item">Node</li>
+                                <li className="list-group-item">Express</li>
                                 <li className="list-group-item">MongoDB</li>
                             </ul>
                         </div>
