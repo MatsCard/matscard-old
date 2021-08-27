@@ -4,7 +4,7 @@ import creator from '../assets/images/creator.jpg'
 
 function Profile () {    
     return (
-        <div className="profile mx-1">
+        <div className="profile mx-1" id="profile">
             <div className="card m-0">
                 <div className="row">
                     <div className="profile-img col-12 col-lg-3">
@@ -25,6 +25,7 @@ function Profile () {
                                 <li className="list-group-item">Javascript/Typescript</li>
                                 <li className="list-group-item">React/Gatsby/Angular/Vue</li>
                                 <li className="list-group-item">Node/Express</li>
+                                <li className="list-group-item">MongoDB</li>
                             </ul>
                         </div>
                     </div>

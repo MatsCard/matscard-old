@@ -1,5 +1,5 @@
 .socials {
-    position: sticky;
+    position: fixed;
     top: 50%;
     background-color: white;
     color: black;

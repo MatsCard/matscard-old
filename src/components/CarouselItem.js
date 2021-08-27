@@ -5,7 +5,7 @@ function CarouselItem ({small, big, description, active, link}) {
     return (
         <div className={`carousel-item ${active}`}>
             <div className="col-md-6">
-                    <div className="card">
+                <div className="card">
                     <a href={link}>
                         <div className="c2 center card-img">
                         <div className="normal-image">
@@ -16,8 +16,8 @@ function CarouselItem ({small, big, description, active, link}) {
                         </div>
                         </div>
                     </a>
-                    <h4 className="card-text pt-1 mt-1">{description}</h4>
                 </div>
+                    <h4 className="card-text pt-1 mt-1">{description}</h4>
             </div>
         </div>
 )

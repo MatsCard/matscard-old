@@ -4,7 +4,7 @@ import contactMe from '../assets/images/contact-me.jpg'
 
 function ContactMe () {    
     return (
-        <div className="contact-me">
+        <div className="contact-me" id="contact-me">
         <div className="container-fluid">
             
             
