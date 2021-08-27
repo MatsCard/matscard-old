@@ -17,6 +17,11 @@
 
     .navbar {
         padding: 0 8rem;
+        margin: 1rem 0 1rem 0;
     }
-
+    .navbar-brand {
+        height: 34px;
+        margin: 0 2rem 0 0;
+        padding: 0;
+    }
 }
