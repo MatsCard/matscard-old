@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/matscard/static/css/main.5da931f2.chunk.css",
-    "main.js": "/matscard/static/js/main.8ce3fb00.chunk.js",
-    "main.js.map": "/matscard/static/js/main.8ce3fb00.chunk.js.map",
+    "main.js": "/matscard/static/js/main.410a3d1b.chunk.js",
+    "main.js.map": "/matscard/static/js/main.410a3d1b.chunk.js.map",
     "runtime-main.js": "/matscard/static/js/runtime-main.fd8daf29.js",
     "runtime-main.js.map": "/matscard/static/js/runtime-main.fd8daf29.js.map",
     "static/css/2.ee6d6b5d.chunk.css": "/matscard/static/css/2.ee6d6b5d.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/angular-firebase-store-big.4a224ffb.png": "/matscard/static/media/angular-firebase-store-big.4a224ffb.png",
     "static/media/angular-firebase-store-small.a0d9996e.png": "/matscard/static/media/angular-firebase-store-small.a0d9996e.png",
     "static/media/contact-me.58f396e2.jpg": "/matscard/static/media/contact-me.58f396e2.jpg",
-    "static/media/creator.43ecd00d.jpg": "/matscard/static/media/creator.43ecd00d.jpg",
+    "static/media/creator.53eed226.jpg": "/matscard/static/media/creator.53eed226.jpg",
     "static/media/all.css": "/matscard/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/gatsby-swag-big.61d0911d.png": "/matscard/static/media/gatsby-swag-big.61d0911d.png",
     "static/media/gatsby-swag-small.64271e09.png": "/matscard/static/media/gatsby-swag-small.64271e09.png",
@@ -46,6 +46,6 @@
     "static/css/2.ee6d6b5d.chunk.css",
     "static/js/2.424b9c32.chunk.js",
     "static/css/main.5da931f2.chunk.css",
-    "static/js/main.8ce3fb00.chunk.js"
+    "static/js/main.410a3d1b.chunk.js"
   ]
 }
