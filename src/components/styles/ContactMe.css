@@ -19,12 +19,17 @@
     max-width: 80%;
 }
 
-@media screen and (min-width: 1023px    ) {
-    
+@media screen and (min-width: 1023px) {
 .contact-me-img {
 
     margin: 0 0 0 auto;
     
 }
+}
+
+@media screen and (min-width: 676px) {
+    .contact-me {
+        margin-top: 11rem;
+    }
 
 }
