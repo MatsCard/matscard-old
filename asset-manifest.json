@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/matscard/static/css/main.5da931f2.chunk.css",
+    "main.css": "/matscard/static/css/main.48dc3f0b.chunk.css",
     "main.js": "/matscard/static/js/main.410a3d1b.chunk.js",
     "main.js.map": "/matscard/static/js/main.410a3d1b.chunk.js.map",
     "runtime-main.js": "/matscard/static/js/runtime-main.fd8daf29.js",
@@ -12,7 +12,7 @@
     "static/js/3.644fc40b.chunk.js.map": "/matscard/static/js/3.644fc40b.chunk.js.map",
     "index.html": "/matscard/index.html",
     "static/css/2.ee6d6b5d.chunk.css.map": "/matscard/static/css/2.ee6d6b5d.chunk.css.map",
-    "static/css/main.5da931f2.chunk.css.map": "/matscard/static/css/main.5da931f2.chunk.css.map",
+    "static/css/main.48dc3f0b.chunk.css.map": "/matscard/static/css/main.48dc3f0b.chunk.css.map",
     "static/js/2.424b9c32.chunk.js.LICENSE.txt": "/matscard/static/js/2.424b9c32.chunk.js.LICENSE.txt",
     "static/media/Freight Big Light.0363e1ab.otf": "/matscard/static/media/Freight Big Light.0363e1ab.otf",
     "static/media/angular-firebase-store-big.4a224ffb.png": "/matscard/static/media/angular-firebase-store-big.4a224ffb.png",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.fd8daf29.js",
     "static/css/2.ee6d6b5d.chunk.css",
     "static/js/2.424b9c32.chunk.js",
-    "static/css/main.5da931f2.chunk.css",
+    "static/css/main.48dc3f0b.chunk.css",
     "static/js/main.410a3d1b.chunk.js"
   ]
 }
