@@ -1,14 +1,14 @@
 .empty {
     position: relative;
     margin: 0 auto;
-    height: 200px;
+    height: 150px;
     
 }
 
 .empty-container {
     position: relative;
     background-color: black;
-    height: 300px;
+    height: 200px;
     width: 80%;
     margin: 0 auto;
     top: -5rem;
@@ -18,4 +18,15 @@
 .empty .empty-col {
     
     border-right: 2px solid white;
+}
+
+@media screen and (min-width: 767px){
+    
+    .empty-container {
+        height: 300px;
+    }
+
+    .empty {
+        height: 200px;
+    }    
 }
