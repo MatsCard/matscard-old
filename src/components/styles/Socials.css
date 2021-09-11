@@ -2,7 +2,7 @@
     position: fixed;
     top: 50%;
     background-color: white;
-    color: black;
+    color: var(--bs-dark);
 
     z-index: 1000;
     width: 40px;

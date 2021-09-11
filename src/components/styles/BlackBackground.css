@@ -7,7 +7,7 @@
 
 .empty-container {
     position: relative;
-    background-color: black;
+    background-color: var(--bs-dark);
     height: 200px;
     width: 80%;
     margin: 0 auto;
